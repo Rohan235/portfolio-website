@@ -1,0 +1,47 @@
+:root {
+  --mainColor: #15202b;
+  --secondaryColor: #192734;
+
+  --borderColor: #164d56;
+
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotBorder: #fff;
+
+  --previewBg: rgb(25, 39, 52, 0.8);
+  --previewShadow: #111921;
+
+  --buttonColor: #17a2b8;
+}
+body {
+  background-color: var(--previewBg);
+}
+.icon-box {
+  color: #fff;
+}
+.icon-box a {
+  color: red;
+}
+
+.about h3 {
+  color: #fff;
+}
+
+.about p {
+  color: #fff;
+}
+.work {
+  color: #fff;
+}
+
+.work p {
+  color: #fff;
+}
+.skills {
+  color: black;
+}
+
+.skills li {
+  color: #fff;
+}
