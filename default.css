@@ -324,6 +324,14 @@ h6 {
   #preview {
     width: 280px;
   }
+  .intro-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .dots-wrapper {
+    display: none;
+  }
 }
 
 .icons {
